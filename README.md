@@ -3,7 +3,7 @@
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
   
-<img align="center" src="https://github.com/dhanvina/ps/blob/main/N%20DHANVINA.png" />
+<img align="center" src="https://github.com/dhanvina/ps/blob/main/N%20DHANVINA.png" alt="img"/>
 
 <h2 align="center"> 🔗 I'm a python developer 😉</h2>
 
