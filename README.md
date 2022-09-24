@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Dhanvina N 🧛‍♂️</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Dhanvina N 👨‍💻</h1>
 <h3 align="center">CSE Student, GLOBAL ACADEMY OF TECHNOLOGY Bangalore</h3>
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
