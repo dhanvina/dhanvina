@@ -17,7 +17,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![DART](https://img.shields.io/badge/-DART-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![DART](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=A8B9CC)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;\
