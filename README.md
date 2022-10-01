@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Dhanvina;">
 </p> 
 
-
+Until you try, You'll never know never know the difference between success and failure!! <br>
 
 
 
@@ -18,8 +18,7 @@
 <h2 align="center"> 🔗 I'm a python developer 😉</h2>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-  
-#### ✨ Trying to touch the sky's limit 🎐    
+   
 
 ### 🌱 I’m currently learning
 
