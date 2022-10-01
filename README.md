@@ -42,7 +42,6 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
-![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-05122A?style=flat&logo=Natural-Language-Processing&logoColor=007ACC)&nbsp;
 
 
 
