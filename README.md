@@ -43,7 +43,49 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
 
+## GitHub Statistics 📃
 
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
+</p>
+  
+## Trophies 🏆
+
+<p align="left">
+<img width=1000 src="https://github-profile-trophy.vercel.app/?username=prathimacode-hub&column=7&theme=gruvbox&no-frame=true"/>
+</p>
+
+## Contribution Graph 🎡
+
+<p align="left">
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=prathimacode-hub&theme=xcode" />
+</p>
+
+## Connect With Me 🤝 
+
+<p align="left">
+<a href="https://www.linkedin.com/in/prathima-kadari" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
+</a>
+<a href="https://twitter.com/prathimak88" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
+</a>
+<a href="https://www.discord.com/prathima-kadari" target="_blank">
+<img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 10px;" />
+</a>
+<a href="mailto:kadariprathima4@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+</div>  
+
+</td>
+<td valign="top" width="50%">
+  
+## Visitors Count 👀
+
+![VisitorCount](https://profile-counter.glitch.me/{dhanvina-hub}/count.svg)
 
 
 
