@@ -4,7 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Dhanvina;">
 </p> 
 
-Until you try, You'll never know never know the difference between success and failure!! <br>
+Until you try, You'll never know never know the taste between success and failure!! <br>
+  
+### Keen To Interact with Me? <br>
+
+I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
+
+▶️ Shoot me an email at ndhanvina07@gmail.com for official discussions. <br>
+▶️ Find me on [LinkedIn](https://www.linkedin.com/in/dhanvina/), and [Discord](https://discordapp.com/users/NDhanvina#1208). <br>
+
 
 
 
