@@ -34,7 +34,10 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-05122A?style=flat&logo=Deep-Learning&logoColor=007ACC)&nbsp;
-
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=007ACC)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=007ACC)&nbsp;
+  
+  
 ## GitHub Statistics 📃
 
 <p align="left">
