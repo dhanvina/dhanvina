@@ -68,13 +68,11 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 <a href="https://www.linkedin.com/in/ndhanvina" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
 </a>
-<a href="https://twitter.com/prathimak88" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 10px;" />
 </a>
-<a href="https://www.discord.com/prathima-kadari" target="_blank">
+<a href="https://www.discord.com/NDhanvina#1208" target="_blank">
 <img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 10px;" />
 </a>
-<a href="mailto:kadariprathima4@gmail.com" target="_blank">
+<a href="mailto:ndhanvina07@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -85,7 +83,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
   
 ## Visitors Count 👀
 
-![VisitorCount](https://profile-counter.glitch.me/{dhanvina-hub}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{dhanvina}/count.svg)
 
 
 
