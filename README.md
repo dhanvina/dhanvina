@@ -46,8 +46,8 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 ## GitHub Statistics 📃
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhanvina-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvina-hub&theme=tokyonight" />
 </p>
   
 ## Trophies 🏆
