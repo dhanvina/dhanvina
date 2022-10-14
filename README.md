@@ -1,14 +1,15 @@
 <body style="background-color:WhiteSmoke;">
 <h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
 <p align="center">
+  <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Dhanvina;">
 </p> 
   
-I am N Dhanvina, a 2nd year CSE student at Global Academy of Technology. I am into **App Development** using **Flutter**, and **Machine Learning** using **Python**.
+I'm N Dhanvina! , a 3rd year CSE student at Global Academy of Technology. I am into **App Development** using **Flutter**, and **Machine Learning** using **Python**.
 
 
 Until you try, You'll never know never know the taste between success and failure!! <br>
-  
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 ### Keen To Interact with Me? <br>
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
@@ -16,7 +17,20 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 ▶️ Shoot me an email at ndhanvina07@gmail.com for official discussions. <br>
 ▶️ Find me on [LinkedIn](https://www.linkedin.com/in/dhanvina/), and [Discord](https://discordapp.com/users/NDhanvina#1208). <br>
 
-## Technical Skills ✔
+<img src="https://media.giphy.com/media/7xWWnhbzGtpwEcbYvP/giphy.gif" width="100">
+
+<p align="left">
+<a href="https://dev.to/@dhanvina" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@dhanvina" height="43" width="43" /></a>
+<a href="https://instagram.com/dhanvina132" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" alt="dhanvina132" height="43" width="43" /></a>
+<a href="https://linkedin.com/in/dhanvina-n-57298118b/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" alt="ndhanvina" height="43" width="43" /></a>
+<a href="https://www.hackerrank.com/peckdoor" target="blank"><img align="center" src="https://github.com/amangupta37/KNOW-ME-app/blob/main/hacker-rank.png" alt="ndhanvina" height="43" width="43" /></a>
+<a href="https://leetcode.com/dhanvina132/" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/43/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="@ndhanvina" /></a>
+<a href="https://www.codechef.com/users/ndhanvina" target="blank"><img align="center" src="https://img.icons8.com/ios/43/000000/codechef.png" alt="@ndhanvina" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ndhanvina/practice" target="blank"><img align="center" src="https://img.icons8.com/color/43/000000/GeeksforGeeks.png" alt="@ndhanvina" /></a>
+  
+ 
+ 
+## 🛠️Technical Skills :-
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -48,6 +62,12 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvina&theme=tokyonight" />
 </p>
   
+ ## ⚙ IDEs :-
+<p float="left">
+<img src="https://img.icons8.com/color/64/000000/pycharm.png"/>
+<img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png"/>
+</p>
+ 
 ## Trophies 🏆
 
 <p align="left">
@@ -83,6 +103,9 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 
 ![VisitorCount](https://profile-counter.glitch.me/{dhanvina}/count.svg)
 
+<h3 align="center">
+Show some ❤️ by starring some of the repositories!
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"></h3>
 
 
 
