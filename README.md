@@ -108,6 +108,10 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 Show some ❤️ by starring some of the repositories!
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"></h3>
 
+<h2>To-Do</h2>
+1. Linear regression (Implementation and Math)<br/>
+2. Deployment of machine learning algorithm (Flask)
+
 
 
   
