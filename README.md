@@ -12,8 +12,8 @@ I'm N Dhanvina! , a 3rd year CSE student at Global Academy of Technology. I am i
 ![VisitorCount](https://profile-counter.glitch.me/{dhanvina}/count.svg)
 <img src="https://img.shields.io/github/followers/dhanvina?label=Followers&style=social" alt="dhanvina" />
 <br/>
-Until you try, You'll never know never know the taste between success and failure!! <br>
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+## "Until you try, You'll never know never know the taste between success and failure!!" <br>
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /><br/>
 ### Keen To Interact with Me? <br>
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
