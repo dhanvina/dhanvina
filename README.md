@@ -112,7 +112,7 @@ Show some ❤️ by starring some of the repositories!
 1. Linear regression (Implementation and Math)<br/>
 2. Deployment of machine learning algorithm (Flask)
 
-
+![](assets/Bottom_down.svg)
 
   
 
