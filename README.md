@@ -7,13 +7,18 @@
   
 I'm N Dhanvina! , a 3rd year CSE student at Global Academy of Technology. I am into **App Development** using **Flutter**, and **Machine Learning** using **Python**.
 
+<p align="center">
+    <a href="https://github.com/dhanvina"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>  
+</p>  
+  
 ## Visitors Count 👀
 
 ![VisitorCount](https://profile-counter.glitch.me/{dhanvina}/count.svg)
-<img src="https://img.shields.io/github/followers/dhanvina?label=Followers&style=social" alt="dhanvina" />
-<br/>
+ <p align="left"><img src="https://img.shields.io/github/followers/dhanvina?label=Followers&style=social" alt="dhanvina" /><p/>
+  
 ## "Until you try, You'll never know never know the taste between success and failure!!" <br>
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /><br/>
+  
 ### Keen To Interact with Me? <br>
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
