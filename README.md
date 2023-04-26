@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Dhanvina;">
 </p> 
   
-I'm N Dhanvina! , a 3rd year CSE student at Global Academy of Technology. I am into **App Development** using **Flutter**, and **Machine Learning** using **Python**.
+I'm N Dhanvina! ,3rd year CSE student at Global Academy of Technology. I am into **App Development** using **Flutter**, and **Machine Learning** using **Python**.
 
 <p align="center">
     <a href="https://github.com/dhanvina"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>  
@@ -73,8 +73,12 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
   
  ## ⚙ IDEs :-
 <p float="left">
-<img src="https://img.icons8.com/color/64/000000/pycharm.png"/>
+<img src="https://img.icons8.com/fluent/64/000000/pycharm.png"/>
 <img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/fluent/64/000000/android-studio.png"/>
+<img src="https://img.icons8.com/fluent/64/000000/matlab.png"/>
+
+
 </p>
  
 ## Trophies 🏆
@@ -83,11 +87,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=dhanvina&column=7&theme=gruvbox&no-frame=true"/>
 </p>
 
-## Contribution Graph 🎡
 
-<p align="left">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=dhanvina&theme=xcode" />
-</p>
 
 ## Connect With Me 🤝 
 
