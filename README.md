@@ -1,11 +1,21 @@
 <body style="background-color:WhiteSmoke;">
 <h1 align="center">WELCOME TO MY GITHUB PROFILE </h1>
+ 
+ <p align="center">
+    <strong>"Venturing into the unknown, where success and failure dance in a delicate balance, offers an exquisite taste reserved only for those who dare to try.!!"</strong>
+</p>
+ 
 <p align="center">
   <img src="https://media.giphy.com/media/QX1OLGwOdE2X5kjn9w/giphy.gif" height="60" width="40">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Dhanvina;">
 </p> 
   
-I'm N Dhanvina! ,3rd year CSE student at Global Academy of Technology. I am into **App Development** using **Flutter**, and **Machine Learning** using **Python**.
+<div>
+<p>A creative and driven 3rd year CSE student at Global Academy of Technology. Specializing in <b>Software Development</b>, <b>Flutter App Development</b>, and <b>Machine Learning with Python</b>, I bring a diverse skill set to the table. Proficient in <b>C</b>, <b>Python</b>, <b>Java</b>, and <b>Dart</b>, I also excel in web development with <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>.
+
+Let's collaborate and **unlock new possibilities!** 😄
+</p>
+</div>
 
 <p align="center">
     <a href="https://github.com/dhanvina"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>  
@@ -16,15 +26,18 @@ I'm N Dhanvina! ,3rd year CSE student at Global Academy of Technology. I am into
 ![VisitorCount](https://profile-counter.glitch.me/{dhanvina}/count.svg)
  <p align="left"><img src="https://img.shields.io/github/followers/dhanvina?label=Followers&style=social" alt="dhanvina" /><p/>
   
-## "Until you try, You'll never know never know the taste between success and failure!!" <br>
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" /><br/>
+
+
+<img align="right" alt="GIF" style="width: 100%; height: 200;" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+
   
 ### Keen To Interact with Me? <br>
+  
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
 ▶️ Shoot me an email at ndhanvina07@gmail.com for official discussions. <br>
-▶️ Find me on [LinkedIn](https://www.linkedin.com/in/dhanvina/), and [Discord](https://discordapp.com/users/NDhanvina#1208). <br>
+▶️ Find me on [LinkedIn](https://www.linkedin.com/in/dhanvina/), and [Discord](https://discordapp.com/users/NDhanvina#1208). <br> 
 
 <img src="https://media.giphy.com/media/7xWWnhbzGtpwEcbYvP/giphy.gif" width="100">
 
