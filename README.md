@@ -24,11 +24,11 @@ Let's collaborate and **unlock new possibilities!** 😄
 ## Visitors Count 👀
 
 ![VisitorCount](https://profile-counter.glitch.me/{dhanvina}/count.svg)
- <p align="left"><img src="https://img.shields.io/github/followers/dhanvina?label=Followers&style=social" alt="dhanvina" /><p/>
+ <p align="center"><img src="https://img.shields.io/github/followers/dhanvina?label=Followers&style=social" alt="dhanvina" /><p/>
   
 
 
-<img align="right" alt="GIF" style="width: 100%; height: 200;" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+<img align="center" alt="GIF" style="width: 100%; height: 100%;" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
   
 ### Keen To Interact with Me? <br>
@@ -123,7 +123,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
   
 
 <h3 align="center">
-Show some ❤️ by starring some of the repositories!
+Show some ❤️ by starring the repositories!
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30"></h3>
 
 
