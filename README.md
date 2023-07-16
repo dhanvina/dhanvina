@@ -76,6 +76,34 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&logoColor=007ACC)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&logoColor=007ACC)&nbsp;
   
+## ⚡ Technologies
+
+### Language
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Libraries & Framework
+
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)-->
+![Flutter](https://img.shields.io/badge/flutter-%23092E20.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23092E20.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+
   
 ## GitHub Statistics 📃
 
@@ -88,16 +116,10 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvina&theme=tokyonight" /></td>
 </tr>
 </table>
-  
- ## ⚙ IDEs ⚙
-<p float="left">
-<img src="https://img.icons8.com/fluent/64/000000/pycharm.png"/>
-<img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/fluent/64/000000/android-studio.png"/>
-<img src="https://img.icons8.com/fluent/64/000000/matlab.png"/>
+ 
 
 
-</p>
+
  
 ## 🏆 Trophies 🏆
 
