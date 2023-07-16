@@ -79,12 +79,17 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
   
 ## GitHub Statistics 📃
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhanvina&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvina&theme=tokyonight" />
-</p>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=dhanvina&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanvina&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvina&theme=tokyonight" /></td>
+</tr>
+</table>
   
- ## ⚙ IDEs :-
+ ## ⚙ IDEs ⚙
 <p float="left">
 <img src="https://img.icons8.com/fluent/64/000000/pycharm.png"/>
 <img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-2019.png"/>
@@ -94,7 +99,7 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 
 </p>
  
-## Trophies 🏆
+## 🏆 Trophies 🏆
 
 <p align="left">
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=dhanvina&column=7&theme=gruvbox&no-frame=true"/>
@@ -102,20 +107,15 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 
 
 
-## Connect With Me 🤝 
+## 🤝 Connect With Me 🤝 
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ndhanvina" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 10px;" />
-</a>
-</a>
-<a href="https://www.discord.com/NDhanvina#1208" target="_blank">
-<img src=https://img.shields.io/badge/discord-%232E87FB.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 10px;" />
-</a>
-<a href="mailto:ndhanvina07@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ndhanvina07@gmail.com)](mailto:ndhanvina07@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ndhanvina/)](https://www.linkedin.com/in/ndhanvina/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dhanvina_n)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dhanvina132/)](https://instagram.com/dhanvina132)
+[![Discord Badge](https://img.shields.io/badge/discord-%232E87FB.svg?&style=flat-square&logo=Discord&logoColor=white)](https://www.discord.com/NDhanvina#1208)
+
+
 </div>  
 
 </td>
