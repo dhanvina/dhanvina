@@ -11,7 +11,7 @@
 </p> 
   
 <div>
-<p>A creative and driven final year CSE student at Global Academy of Technology. Specializing in <b>Software Development</b>, <b>Flutter App Development</b>, and <b>Machine Learning with Python</b>, I bring a diverse skill set to the table. Proficient in <b>C</b>, <b>Python</b>, <b>Java</b>, and <b>Dart</b>, I also excel in web development with <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>.
+<p>Specializing in <b>Software Development</b>, <b>Flutter App Development</b>, and <b>Machine Learning with Python</b>, I bring a diverse skill set to the table. Proficient in <b>C</b>, <b>Python</b>, <b>Java</b>, and <b>Dart</b>, I also excel in web development with <b>HTML5</b>, <b>CSS3</b>, and <b>JavaScript</b>.
 
 Let's collaborate and **unlock new possibilities!** 😄
 </p>
