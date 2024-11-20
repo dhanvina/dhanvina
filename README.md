@@ -51,7 +51,9 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhanvina&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanvina&theme=radical" alt="GitHub Streak Stats">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanvina&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
@@ -88,9 +90,11 @@ _Artificial Intelligence is like a painter with infinite brushes—every stroke 
   </a>
 </div>
 
-
 ## Visitors Count 👀
-![VisitorCount](https://profile-counter.glitch.me/{dhanvina}/count.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{dhanvina}/count.svg" alt="Visitor Count">
+</div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=30&lines=🚀+Let's+Build+the+Future+Together!+🌌" alt="Footer Animation">
