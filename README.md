@@ -114,6 +114,12 @@ _Artificial Intelligence is like a painter with infinite brushes—every stroke 
 - 🎯 Creating autonomous AI agents with **RAG (Retrieval Augmented Generation)** capabilities
 - 🌐 Implementing multi-agent systems for complex problem-solving scenarios
 
+#### 🤖 Automation Tools
+<div align="center">
+  <img src="https://n8n.io/favicon.ico" alt="n8n" width="48" height="48"/>
+  <p><strong>n8n</strong> - Fair-code Licensed Workflow Automation</p>
+</div>
+
 #### Innovative Tech Stack
 - **LLM Frameworks**: LangChain, LlamaIndex, Haystack
 - **Vector Databases**: Pinecone, Weaviate, ChromaDB
