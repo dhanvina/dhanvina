@@ -24,7 +24,7 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
 ## 🚀 **My Tech Arsenal**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,docker,flask,aws,git,django,flutter,html,css&theme=light" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,azure,docker,flask,fastapi,aws,git,django,flutter&theme=light" alt="Tech Stack">
 </div>
 
 
@@ -99,3 +99,30 @@ _Artificial Intelligence is like a painter with infinite brushes—every stroke 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=30&lines=🚀+Let's+Build+the+Future+Together!+🌌" alt="Footer Animation">
 </div> 
+
+## 🔬 **Current Explorations**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1000&color=00FFB3&background=0F1624&center=true&vCenter=true&width=800&height=45&lines=Building+Next-Gen+AI+Agents;Exploring+Large+Language+Models;Pushing+Boundaries+of+AI" alt="Current Work">
+</div>
+
+### 🤖 **Advanced AI Projects**
+
+#### LLM & AI Agents
+- 🧠 Developing custom **LLM-powered AI agents** using frameworks like LangChain and AutoGPT
+- 🔄 Fine-tuning Large Language Models (LLMs) for specialized domain applications
+- 🎯 Creating autonomous AI agents with **RAG (Retrieval Augmented Generation)** capabilities
+- 🌐 Implementing multi-agent systems for complex problem-solving scenarios
+
+#### Innovative Tech Stack
+- **LLM Frameworks**: LangChain, LlamaIndex, Haystack
+- **Vector Databases**: Pinecone, Weaviate, ChromaDB
+- **Model Deployment**: BentoML, Ray Serve
+- **Prompt Engineering**: LangSmith, PromptLayer
+- **Agent Frameworks**: AutoGPT, BabyAGI
+
+#### 🎯 Current Focus
+- Building scalable RAG pipelines for enterprise applications
+- Experimenting with the latest open-source LLMs (Llama 2, Mistral, Claude)
+- Developing cognitive architectures for autonomous AI agents
+- Research on multi-modal LLMs and their real-world applications
