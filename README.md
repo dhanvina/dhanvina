@@ -1,15 +1,18 @@
 <div align="center" style="background-color: #0f1624; padding: 40px; border-radius: 15px;">
   
-# **⚡ Welcome to My Tech Odyssey ⚡**
-### _"Innovating the future, one algorithm at a time."_
+# **⚡ Dhanvina | AI Engineer ⚡**
+### _"**I build AI-powered systems** with **robust backend architecture**, optimized for **production**."_
   
 </div>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3000&pause=1000&color=F7DF1E&background=0F1624&center=true&vCenter=true&width=900&height=50&lines=Artificial+Intelligence+Engineer;Tech+Innovator+%7C+Problem+Solver;Exploring+the+Future+of+AI+and+Beyond" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3000&pause=1000&color=F7DF1E&background=0F1624&center=true&vCenter=true&width=900&height=50&lines=Artificial+Intelligence+Engineer;Open+Source+Contributor+%7C+Production+Ready+AI;Exploring+the+Future+of+AI+and+Beyond" alt="Typing Animation">
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhanvina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</div>
 
 
 ## 🌟 **About Me**
@@ -23,10 +26,71 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
 
 ## 🚀 **My Tech Arsenal**
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,azure,docker,flask,fastapi,aws,git,django,flutter&theme=light" alt="Tech Stack">
-</div>
-
+<table width="100%">
+  <tr>
+    <td width="33%">
+      <h4>🤖 AI/ML Core</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+    </td>
+    <td width="33%">
+      <h4>🔧 Backend Stack</h4>
+      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
+    </td>
+    <td width="33%">
+      <h4>⚙️ DevOps</h4>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h4>☁️ Cloud</h4>
+      <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&labelColor=232F3E">
+      <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&labelColor=0078D4">
+    </td>
+    <td width="33%">
+      <h4>🗄️ Database</h4>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+    </td>
+    <td width="33%">
+      <h4>🧠 GenAI</h4>
+      <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21F?logo=huggingface&logoColor=black">
+      <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white">
+      <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h4>🚀 Deployment</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
+      <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black">
+    </td>
+    <td width="33%">
+      <h4>📱 Mobile</h4>
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white">
+    </td>
+    <td width="33%">
+      <h4>📦 Other Tools</h4>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white">
+      <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ **What I Do**
 
@@ -59,14 +123,6 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
 
 
 
-## 🌌 **Vision & Goals**
-
-- 🔭 **Exploration**: Continuously researching **cutting-edge AI technologies**.  
-- ⚙️ **Innovation**: Developing tools that make **technology accessible** to everyone.  
-- 🌍 **Sustainability**: Advocating for ethical AI and **green tech solutions**.
-
-
-
 ## 🏆 Trophies 🏆
 
 <p align="left">
@@ -88,11 +144,6 @@ _Artificial Intelligence is like a painter with infinite brushes—every stroke 
   <a href="https://www.linkedin.com/in/ndhanvina/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div>
-
-## Visitors Count 👀
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{dhanvina}/count.svg" alt="Visitor Count">
 </div>
 
 
