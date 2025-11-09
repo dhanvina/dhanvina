@@ -165,35 +165,25 @@ _Artificial Intelligence is like a painter with infinite brushes—every stroke 
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=30&lines=🚀+Let's+Build+the+Future+Together!+🌌" alt="Footer Animation">
 </div> 
 
-## 🔬 **Current Explorations**
-
+## 🔬 **Current Focus & Research**
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&duration=3000&pause=1000&color=00FFB3&background=0F1624&center=true&vCenter=true&width=800&height=45&lines=Building+Next-Gen+AI+Agents;Exploring+Large+Language+Models;Pushing+Boundaries+of+AI" alt="Current Work">
+### 🧠 **Generative AI (GenAI) & LLMs**
+- Developing advanced **Large Language Models (LLMs)** applications with production-grade architectures
+- Building **RAG (Retrieval Augmented Generation)** systems for enterprise knowledge management
+- Fine-tuning and optimizing LLMs for specialized domain applications
+- Exploring cutting-edge models: Llama 2, Mistral, Claude, and open-source alternatives
+
+### ⚙️ **MLOps & Production ML Systems**
+- Designing scalable **machine learning pipelines** with automated training and deployment
+- Implementing **model versioning** and **experiment tracking** using MLflow and DVC
+- Building **CI/CD automation** for continuous model improvement and monitoring
+- Developing **production-ready ML infrastructure** with Docker and orchestration tools
+- Creating **real-time inference systems** with optimized model serving
+
+### 🤖 **AI Agent Systems & Automation**
+- Creating autonomous **multi-agent systems** for complex problem-solving scenarios
+- Building intelligent **automation frameworks** with sophisticated decision-making capabilities
+- Exploring **agentic AI architectures** for enterprise automation solutions
 </div>
 
-### 🤖 **Advanced AI Projects**
-
-#### LLM & AI Agents
-- 🧠 Developing custom **LLM-powered AI agents** using frameworks like LangChain and AutoGPT
-- 🔄 Fine-tuning Large Language Models (LLMs) for specialized domain applications
-- 🎯 Creating autonomous AI agents with **RAG (Retrieval Augmented Generation)** capabilities
-- 🌐 Implementing multi-agent systems for complex problem-solving scenarios
-
-#### 🤖 Automation Tools
-<div align="center">
-  <img src="https://n8n.io/favicon.ico" alt="n8n" width="48" height="48"/>
-  <p><strong>n8n</strong> - Fair-code Licensed Workflow Automation</p>
-</div>
-
-#### Innovative Tech Stack
-- **LLM Frameworks**: LangChain, LlamaIndex, Haystack
-- **Vector Databases**: Pinecone, Weaviate, ChromaDB
-- **Model Deployment**: BentoML, Ray Serve
-- **Prompt Engineering**: LangSmith, PromptLayer
-- **Agent Frameworks**: AutoGPT, BabyAGI
-
-#### 🎯 Current Focus
-- Building scalable RAG pipelines for enterprise applications
-- Experimenting with the latest open-source LLMs (Llama 2, Mistral, Claude)
-- Developing cognitive architectures for autonomous AI agents
-- Research on multi-modal LLMs and their real-world applications
