@@ -56,6 +56,7 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
       <h4>☁️ Cloud</h4>
       <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&labelColor=232F3E">
       <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&labelColor=0078D4">
+            <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white">
     </td>
     <td width="33%">
       <h4>🗄️ Database</h4>
