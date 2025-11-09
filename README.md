@@ -62,6 +62,7 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
       <h4>🗄️ Database</h4>
       <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
       <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+            <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">
     </td>
     <td width="33%">
       <h4>🧠 GenAI</h4>
