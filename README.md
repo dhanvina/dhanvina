@@ -37,6 +37,10 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
+            <img src="https://img.shields.io/badge/YOLO-00BFFF?logo=yolo&logoColor=white">
+            <img src="https://img.shields.io/badge/XGBoost-FF6B35?logo=xgboost&logoColor=white">
+            <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white">
+            <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?logo=tensorflow&logoColor=white">
     </td>
     <td width="33%">
       <h4>🔧 Backend Stack</h4>
@@ -49,6 +53,11 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white">
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+            <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+            <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white">
+            <img src="https://img.shields.io/badge/DVC-945DD6?logo=dvc&logoColor=white">
+            <img src="https://img.shields.io/badge/Celery-37B24D?logo=celery&logoColor=white">
+            <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -90,6 +99,9 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
       <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white">
       <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white">
+            <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+            <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+            <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">
     </td>
   </tr>
 </table>
