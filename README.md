@@ -119,7 +119,7 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
 - Designing high-performance **infrastructures** that drive efficiency and innovation.  
 
 ### **🌐 Tech Innovation**
-- Exploring **Machine Learning** and **AI** to create smarter solutions for real-world challenges.
+- Exploring **GEN AI** to create smarter solutions for real-world challenges.
 - Developing **efficient infrastructures** and **advanced algorithms** for optimized performance and scalability.  
 
 
