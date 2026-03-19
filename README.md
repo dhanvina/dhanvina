@@ -137,11 +137,11 @@ Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. 
 
 
 
-## 🏆 Trophies 🏆
+<!--## 🏆 Trophies 🏆-->
 
-<p align="left">
+<!-- <p align="left">
 <img width=1000 src="https://github-profile-trophy.vercel.app/?username=dhanvina&column=7&theme=gruvbox&no-frame=true"/>
-</p>
+</p> -->
 
 
 
