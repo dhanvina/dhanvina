@@ -1,46 +1,65 @@
 <div align="center" style="background-color: #0f1624; padding: 40px; border-radius: 15px;">
   
 # **⚡ Dhanvina | AI Engineer ⚡**
-### _"**I build AI-powered systems** with **robust backend architecture**, optimized for **production**."_
+### _"Building Agentic AI • Multi-Agent Systems • Enterprise RAG • Generative AI Products"_
   
 </div>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=3000&pause=1000&color=F7DF1E&background=0F1624&center=true&vCenter=true&width=900&height=50&lines=Artificial+Intelligence+Engineer;Open+Source+Contributor+%7C+Production+Ready+AI;Exploring+the+Future+of+AI+and+Beyond" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=30&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&width=1100&height=60&lines=AI+Systems+Engineer;Agentic+AI+Architect;Multi-Agent+Systems+Builder;Enterprise+RAG+Engineer;Generative+AI+Product+Developer" alt="Typing Animation">
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dhanvina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-</div>
+</div> -->
 
 
-## 🌟 **About Me**
+## 🌟 About Me
 
-Welcome! I'm **Dhanvina**, a passionate **AI Engineer** and **Tech Visionary**. My mission is to harness the power of technology to create smarter, scalable, and impactful solutions for the challenges of tomorrow. With a love for cutting-edge innovation and a strong belief in the transformative potential of AI, I specialize in building systems that bridge creativity and intelligence.
+I'm an AI Engineer focused on building production-grade Agentic AI systems, Multi-Agent Architectures, Enterprise RAG platforms, and Generative AI products.
 
-- 🧠 **AI Enthusiast** | Focused on shaping smarter algorithms.  
-- 💻 **Software Architect** | Designing modern, scalable systems.  
-- 🌍 **Tech Visionary** | Committed to ethical and sustainable AI.
+My work spans autonomous AI workflows, LLM orchestration, retrieval systems, computer vision, and enterprise AI applications.
 
+Currently building:
+
+🚀 Autonomous Multi-Agent Platforms
+
+🧠 Enterprise RAG Systems
+
+🤖 AI Agents & Agent Orchestration
+
+📈 AI-Powered SEO & Business Intelligence Systems
+
+🎯 Deep Learning & Computer Vision Solutions
+
+I enjoy transforming foundation models into reliable production systems that solve real business problems.
 
 ## 🚀 **My Tech Arsenal**
 
 <table width="100%">
   <tr>
     <td width="33%">
-      <h4>🤖 AI/ML Core</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white">
-      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white">
-            <img src="https://img.shields.io/badge/YOLO-00BFFF?logo=yolo&logoColor=white">
-            <img src="https://img.shields.io/badge/XGBoost-FF6B35?logo=xgboost&logoColor=white">
-            <img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white">
-            <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?logo=tensorflow&logoColor=white">
+      <h4>🧠 Agentic AI & LLM Engineering</h4>
+      <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white">
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+
+<img src="https://img.shields.io/badge/LangSmith-111827?style=for-the-badge&logo=langchain&logoColor=white">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white">
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
+
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white">
+
+<img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white">
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black">
     </td>
     <td width="33%">
       <h4>🔧 Backend Stack</h4>
